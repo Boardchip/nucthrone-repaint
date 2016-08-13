@@ -1,0 +1,27 @@
+/loadsprite sprmutant7idle sprmutant7idle[11]
+/loadsprite sprmutant7sit sprmutant7sit
+/loadsprite sprmutant7walk sprmutant7walk[6]
+/loadsprite sprvandeactivate sprvandeactivate[8]
+/loadsprite sprvandead sprvandead[4]
+/loadsprite sprvandrive sprvandrive[4]
+/loadsprite sprvanhurt sprvanhurt[3]
+/loadsprite sprvanopen sprvanopen[4]
+/loadsprite sprvanopenidle sprvanopenidle[4]
+/loadsprite sprvandeactivated sprvandeactivated
+/loadsprite sprbanditbossdash sprbanditbossdash[2]
+/loadsprite sprbanditbossdeath sprbanditbossdeath[9]
+/loadsprite sprbanditbossfire sprbanditbossfire[2]
+/loadsprite sprbanditbosshurt sprbanditbosshurt[2]
+/loadsprite sprbanditbossidle sprbanditbossidle[6]
+/loadsprite sprbanditbossstop sprbanditbossstop[2]
+/loadsprite sprbanditbosstell sprbanditbosstell[2]
+/loadsprite sprbiggeneratorinactive sprbiggeneratorinactive
+/loadsprite sprgrenadeblink sprgrenadeblink
+/loadsprite sprdogguardiancharge sprdogguardiancharge[4]
+/loadsprite sprdogguardiandead sprdogguardiandead[7]
+/loadsprite sprdogguardianhurt sprdogguardianhurt[3]
+/loadsprite sprdogguardianwalk sprdogguardianwalk[8]
+/loadsprite sprdogguardianland sprdogguardianland[3]
+/loadsprite sprdogguardianjumpup sprdogguardianjumpup[2]
+/loadsprite sprdogguardianjumpdown sprdogguardianjumpdown[2]
+
